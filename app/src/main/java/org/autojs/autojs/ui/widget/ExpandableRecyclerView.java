@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 
 /**
  * Created by Stardust on 2017/2/4.

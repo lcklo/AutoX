@@ -8,7 +8,7 @@ import android.widget.EditText;
 import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 
 import java.io.File;
 

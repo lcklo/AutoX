@@ -16,7 +16,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.core.app.NotificationCompat;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 import org.autojs.autojs.ui.main.MainActivity;
 
 public class ForegroundService extends Service {

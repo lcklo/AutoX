@@ -3,7 +3,7 @@ package org.autojs.autojs.tool;
 import android.content.Context;
 import android.widget.Toast;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 import com.stardust.util.IntentUtil;
 
 /**

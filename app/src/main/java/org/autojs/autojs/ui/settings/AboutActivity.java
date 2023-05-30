@@ -15,8 +15,8 @@ import com.stardust.util.IntentUtil;
 import com.stardust.util.IntentUtilKt;
 import com.tencent.bugly.crashreport.CrashReport;
 
-import org.autojs.autoxjs.BuildConfig;
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.BuildConfig;
+import lc.jsapp.app.R;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Click;

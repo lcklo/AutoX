@@ -18,7 +18,7 @@ import com.bignerdranch.expandablerecyclerview.ParentViewHolder;
 import com.bignerdranch.expandablerecyclerview.model.Parent;
 import com.stardust.app.DialogUtils;
 import com.stardust.autojs.codegeneration.CodeGenerator;
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 import org.autojs.autojs.ui.widget.CheckBoxCompat;
 import org.autojs.autojs.theme.dialog.ThemeColorMaterialDialogBuilder;
 import com.stardust.theme.util.ListBuilder;

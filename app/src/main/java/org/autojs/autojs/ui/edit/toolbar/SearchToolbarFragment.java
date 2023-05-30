@@ -6,7 +6,7 @@ import androidx.annotation.Nullable;
 import android.view.View;
 
 import org.androidannotations.annotations.EFragment;
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 
 import java.util.Arrays;
 import java.util.List;

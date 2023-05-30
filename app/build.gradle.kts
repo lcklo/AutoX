@@ -31,7 +31,7 @@ android {
     compileSdk = versions.compile
 
     defaultConfig {
-        applicationId = "org.autojs.autoxjs"
+        applicationId = "lc.jsapp.app"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
@@ -139,7 +139,7 @@ android {
             versionName = versions.devVersionName
             buildConfigField("String", "CHANNEL", "\"v6\"")
 //            buildConfigField("String", "APPID", "\"?id=23\"")
-            manifestPlaceholders.putAll(mapOf("appName" to "Autox.js v6"))
+            manifestPlaceholders.putAll(mapOf("appName" to "lcJsApp"))
         }
     }
 

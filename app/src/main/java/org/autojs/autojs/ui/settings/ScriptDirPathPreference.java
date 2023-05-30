@@ -5,7 +5,7 @@ import android.util.AttributeSet;
 
 import androidx.preference.EditTextPreference;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 
 /**
  * create by aaron 2022年1月16日

@@ -15,7 +15,7 @@ import com.stardust.pio.PFiles;
 
 import org.autojs.autojs.ui.BaseActivity;
 import org.autojs.autojs.ui.edit.EditActivity;
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 
 import java.io.File;
 

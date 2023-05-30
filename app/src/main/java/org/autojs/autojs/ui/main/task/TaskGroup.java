@@ -5,7 +5,7 @@ import android.content.Context;
 import com.bignerdranch.expandablerecyclerview.model.Parent;
 import com.stardust.autojs.execution.ScriptExecution;
 
-import org.autojs.autoxjs.R;
+import lc.jsapp.app.R;
 import org.autojs.autojs.autojs.AutoJs;
 import org.autojs.autojs.timing.IntentTask;
 import org.autojs.autojs.timing.TimedTask;
